@@ -1,0 +1,45 @@
+.main{
+    border: 2px solid royalblue;
+    width: 350px;
+    height: 550px;
+    margin: 0 auto;
+    background-color: royalblue;
+    border-radius: 20px;
+}
+
+.result{
+    width: 98%;
+    font-size: 50px;
+    border-radius: 20px;
+}
+.clearBtn{
+    width: 30%;
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 15%;
+    font-size: 30px;
+    border-radius: 25px;
+    font-weight: 700;
+}
+
+.btn{
+    margin-top: 40px;
+    font-size: 40px;
+    border-radius: 100%;
+    margin-left: 40px;
+    background-color: white;
+    font-weight: 700;
+
+}
+
+#footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    height: 80px;
+    text-align: center;
+    color: white;
+    
+    
+    
+}
